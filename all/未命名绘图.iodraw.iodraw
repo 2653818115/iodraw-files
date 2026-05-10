@@ -16,8 +16,14 @@
         <mxCell id="IqS44cQTPxxIZRq1FklX-1" value="提取每条文本作为知识输入" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="190" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IqS44cQTPxxIZRq1FklX-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="290" width="165" height="60" as="geometry" />
+        <mxCell id="IqS44cQTPxxIZRq1FklX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IqS44cQTPxxIZRq1FklX-3" target="IqS44cQTPxxIZRq1FklX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IqS44cQTPxxIZRq1FklX-3" value="构造Prompt并调用DeepSeek模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="290" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IqS44cQTPxxIZRq1FklX-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
