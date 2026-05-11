@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="p6pSBv_FS5sBBWqguIZy-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="345" height="350" as="geometry" />
+          <mxGeometry x="80" y="160" width="345" height="150" as="geometry" />
         </mxCell>
         <mxCell id="p6pSBv_FS5sBBWqguIZy-1" value="什么是死锁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="120" height="60" as="geometry" />
@@ -42,6 +42,9 @@
               <mxPoint x="335" y="340" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p6pSBv_FS5sBBWqguIZy-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="380" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
