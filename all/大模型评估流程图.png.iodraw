@@ -24,11 +24,16 @@
         <mxCell id="bafbFUcR2WiIym4FD_ix-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bafbFUcR2WiIym4FD_ix-4" target="bafbFUcR2WiIym4FD_ix-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bafbFUcR2WiIym4FD_ix-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bafbFUcR2WiIym4FD_ix-8">
+          <mxGeometry x="-0.0333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bafbFUcR2WiIym4FD_ix-4" value="还有未评估的数据吗？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="210" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bafbFUcR2WiIym4FD_ix-7" value="组装评测Prompt" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
