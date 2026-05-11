@@ -84,13 +84,10 @@
         <mxCell id="bafbFUcR2WiIym4FD_ix-22" value="两家评委都打完分了？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="620" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bafbFUcR2WiIym4FD_ix-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bafbFUcR2WiIym4FD_ix-23" target="bafbFUcR2WiIym4FD_ix-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bafbFUcR2WiIym4FD_ix-23" value="解析Json并提取分数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="740" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bafbFUcR2WiIym4FD_ix-25" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bafbFUcR2WiIym4FD_ix-25" value="保存单条结果到Markdown日志" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
