@@ -67,7 +67,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bafbFUcR2WiIym4FD_ix-19" value="两家评委都打完分了？" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="650" width="130" height="60" as="geometry" />
+          <mxGeometry x="160" y="650" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bafbFUcR2WiIym4FD_ix-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="620" as="sourcePoint" />
+            <mxPoint x="240" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
