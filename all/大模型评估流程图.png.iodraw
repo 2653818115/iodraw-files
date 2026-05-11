@@ -21,8 +21,14 @@
         <mxCell id="bafbFUcR2WiIym4FD_ix-2" value="准备评估数据集" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="120" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bafbFUcR2WiIym4FD_ix-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bafbFUcR2WiIym4FD_ix-4" target="bafbFUcR2WiIym4FD_ix-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bafbFUcR2WiIym4FD_ix-4" value="还有未评估的数据吗？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="210" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bafbFUcR2WiIym4FD_ix-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="395" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
