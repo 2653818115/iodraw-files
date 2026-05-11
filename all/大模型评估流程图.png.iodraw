@@ -38,8 +38,14 @@
         <mxCell id="bafbFUcR2WiIym4FD_ix-7" value="组装评测Prompt" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bafbFUcR2WiIym4FD_ix-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bafbFUcR2WiIym4FD_ix-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bafbFUcR2WiIym4FD_ix-10" target="bafbFUcR2WiIym4FD_ix-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bafbFUcR2WiIym4FD_ix-10" value="并发调用大模型api" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bafbFUcR2WiIym4FD_ix-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
