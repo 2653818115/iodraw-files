@@ -53,12 +53,17 @@
           <mxGeometry x="45" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bafbFUcR2WiIym4FD_ix-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bafbFUcR2WiIym4FD_ix-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bafbFUcR2WiIym4FD_ix-10" target="bafbFUcR2WiIym4FD_ix-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="500" as="sourcePoint" />
             <mxPoint x="140" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bafbFUcR2WiIym4FD_ix-18" value="调用Gemini" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bafbFUcR2WiIym4FD_ix-15">
+          <mxGeometry x="0.1509" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
