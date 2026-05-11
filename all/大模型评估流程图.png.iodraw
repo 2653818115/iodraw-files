@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bafbFUcR2WiIym4FD_ix-30" value="结果聚合&lt;div&gt;（计算DeepSeek 和 Gemini平均分）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="340" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
