@@ -22,7 +22,7 @@
         <mxCell id="hv-43MwwwjdTSvnXakPt-6" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="360" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hv-43MwwwjdTSvnXakPt-8" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hv-43MwwwjdTSvnXakPt-8" value="残差连接与层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="400" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
