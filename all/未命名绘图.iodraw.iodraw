@@ -40,6 +40,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="p6pSBv_FS5sBBWqguIZy-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
