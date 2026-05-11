@@ -7,14 +7,11 @@
         <mxCell id="p6pSBv_FS5sBBWqguIZy-1" value="什么是死锁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p6pSBv_FS5sBBWqguIZy-2" value="输入" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p6pSBv_FS5sBBWqguIZy-1" target="p6pSBv_FS5sBBWqguIZy-3">
+        <mxCell id="p6pSBv_FS5sBBWqguIZy-2" value="输入" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p6pSBv_FS5sBBWqguIZy-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="450" as="sourcePoint" />
-            <mxPoint x="240" y="280" as="targetPoint" />
+            <mxPoint x="240" y="160" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="p6pSBv_FS5sBBWqguIZy-3" value="Tokenizer编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p6pSBv_FS5sBBWqguIZy-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="70" height="60" as="geometry" />
