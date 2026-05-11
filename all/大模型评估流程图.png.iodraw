@@ -109,10 +109,13 @@
         <mxCell id="bafbFUcR2WiIym4FD_ix-30" value="结果聚合&lt;div&gt;（计算DeepSeek 和 Gemini平均分）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="340" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bafbFUcR2WiIym4FD_ix-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="bafbFUcR2WiIym4FD_ix-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.414;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bafbFUcR2WiIym4FD_ix-4" target="bafbFUcR2WiIym4FD_ix-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="500" as="sourcePoint" />
             <mxPoint x="250" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
