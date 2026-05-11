@@ -48,7 +48,13 @@
           <mxGeometry x="70" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bafbFUcR2WiIym4FD_ix-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="565" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bafbFUcR2WiIym4FD_ix-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="500" as="sourcePoint" />
+            <mxPoint x="140" y="565" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
