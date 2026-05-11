@@ -78,8 +78,14 @@
             <mxPoint x="290" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bafbFUcR2WiIym4FD_ix-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bafbFUcR2WiIym4FD_ix-22" target="bafbFUcR2WiIym4FD_ix-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bafbFUcR2WiIym4FD_ix-22" value="两家评委都打完分了？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="620" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bafbFUcR2WiIym4FD_ix-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
